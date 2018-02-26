@@ -1,0 +1,158 @@
+.container_12{
+	font-family:Arial Rounded MT Bold;
+	margin-top:10px;
+	background: black;
+	border: 1px solid black;
+}
+.grid_12{
+	font-family:Wide Latin;
+	letter-spacing:3px;
+	background: black;
+	height:52px;
+	width:960px;
+	border-bottom: 1px solid white;
+	padding-bottom: 10px;
+	color:white;
+}
+.grid_12 h1{
+	font-family:'Pacifico', Arial Rounded MT Bold;
+	float:left;
+	margin-left:15px;
+	margin-top:5px;
+	margin-bottom:5px;
+	color:white;
+	font-size:32px;
+	opacity:0.8;
+}
+.nav li{
+	display:inline;
+}
+.nav a{
+	float:right;
+	text-decoration:none;
+	color: white;
+	font-family:Arial Rounded MT Bold;
+	padding:0px 15px 0 5px;
+	opacity:0.8;
+}
+a:hover{
+	text-shadow:1px 1px 1px grey ;
+}
+.first h1{
+	text-align: center;
+	text-transform:capitalize;
+	padding-top:70px;
+	margin-bottom:-15px;
+	color:white;
+	opacity:0.8;
+	font-size:50px;
+	text-shadow: 3px 3px 5px grey;
+}
+img{
+	width: 458px;
+	height: 229px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:100px;
+	padding-bottom: 15px;
+	float:left;
+	opacity:1;
+}
+.round img{
+	width: 350px;
+	height: 200px;
+	margin-left:300px;
+	margin-right:100px;
+	margin-top: 21px;
+}
+button{
+	margin-left:460px;
+	font-weight: bold;
+	font-size:25px;
+	webkit-border-radius: 50%;
+	moz-border-radius: 50%;
+	border-radius: 50%;
+	border: 1px solid black;
+	width: 45px;
+	height: 45px;
+	background: white;
+	margin-bottom:10px;
+	opacity:0.8;
+	color:black;
+}
+.rectangle img{
+	width: 219px;
+	height: 229px;
+	margin-top: 0px;
+	float: left;
+}
+.slide img{
+	width: 219px;
+	height: 229px;
+	margin-top: 0px;
+	float: left;
+}
+.slide p{
+	float: left;
+	font-weight: bold;
+	opacity: 0.8;
+	color: white;
+	letter-spacing: 1px;
+}
+.slide{
+	display: none;
+}
+.btn2{
+	display: none;
+}
+.rectangle p{
+	float: left;
+	font-weight: bold;
+	opacity: 0.8;
+	color: white;
+	letter-spacing: 1px;
+}
+footer img{
+	height: 15px;
+	width : 15px;
+	opacity: 1;
+	margin-top: -17px;
+}
+footer p{
+	color: white;
+	float: left;
+	letter-spacing: 1px;
+	margin-bottom: 5px;
+	opacity:0.8;
+}
+.para_1{
+	padding-left: 30px;
+}
+.para_2{
+	margin-left: 230px;
+}
+.para_3{
+	margin-left: 260px;
+}
+.para2_img{
+	margin-left: 95px;
+}
+.para3_img{
+	margin-left: 115px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
